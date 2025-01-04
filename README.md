@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi I'm Hannah 👋🏽👩🏽‍💻
 
-<!--
-**hanosei/hanosei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a Full Stack Developer with a passion for building innovative solutions, especially in the realm of education. My goal is to create impactful tools and platforms that empower learners, educators, and institutions worldwide.
 
-Here are some ideas to get you started:
+🌱 Lifelong Learner: Currently exploring AI/ML applications in education.
+🌍 Global Citizen: Open to collaborations and opportunities worldwide.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tech Stack: I specialize in:
+
+Programming: Ruby, JavaScript, HTML, CSS, SQL
+Frameworks: Ruby on Rails, Bootstrap 5
+Tools: Git, GitHub, Heroku, Figma, OpenAI APIs, Copilot
+Concepts: MVC, RAG, WebSockets, Responsive Web Design
+
+## Find me around the web 🌎:
+
+💼 [LinkedIn](www.linkedin.com/in/hannahosei)
+
+I'm always excited to collaborate, learn, and grow together. If you share a passion for education and technology or have an exciting project in mind, let's chat!
