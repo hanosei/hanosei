@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a Full Stack Developer with a passion for building innovative solutions, especially in the realm of education. My goal is to create impactful tools and platforms that empower learners, educators, and institutions worldwide.
 
-🌱 Lifelong Learner: Currently exploring AI/ML applications in education.
+🌱 Lifelong Learner: Currently contributing to a group web app.
 🌍 Global Citizen: Open to collaborations and opportunities worldwide.
 
 ### 🔧 Tech Stack: I specialize in:
