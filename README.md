@@ -4,8 +4,8 @@ Welcome to my GitHub profile! I'm a Full Stack Developer with a passion for buil
 
 ### 🔧 Tech Stack: I specialize in:
 
-Programming: Ruby, HTML, CSS, SQL
-Frameworks: Ruby on Rails, Bootstrap 5
+Programming: C#, Ruby, HTML, CSS, SQL
+Frameworks: React, Ruby on Rails, Bootstrap 5
 Tools: Git, GitHub, Heroku, Figma, OpenAI APIs, Copilot
 Concepts: MVC, RAG, WebSockets, Responsive Web Design
 
